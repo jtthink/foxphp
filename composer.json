@@ -1,0 +1,21 @@
+{
+    "name": "jtthink/foxphp",
+    "description": "jtthink project",
+    "keywords": ["jtthink", "foxphp"],
+    "homepage": "http://www.jtthink.com/",
+    "license": ["Apache-2.0", "GPL-2.0+"],
+    "authors": [
+        {
+            "name": "shenyi",
+            "homepage": "http://www.hishenyi.com/"
+        }
+    ],
+
+    "require": {},
+    "autoload":
+    {
+    "files": ["index.php"]
+
+    }
+
+}
